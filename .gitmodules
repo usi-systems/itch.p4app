@@ -1,0 +1,3 @@
+[submodule "camus-compiler"]
+	path = camus-compiler
+	url = https://github.com/usi-systems/camus-compiler.git
